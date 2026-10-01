@@ -30,3 +30,4 @@ Botão DOWN	GPIO 33
 Botão LEFT	GPIO 13
 Botão RIGHT	GPIO 14
 Botão OK	GPIO 15
+https://chatgpt.com/share/6abe9a1b-7aac-83ea-bf22-7d291df16d04
